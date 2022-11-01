@@ -259,6 +259,8 @@ fabric.properties
 !.idea/codeStyles
 !.idea/runConfigurations
 
+#Data files
+taxi_service_db_data.json
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
