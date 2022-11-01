@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+*.iml
+.env
+.DS_Store
+venv/
+.pytest_cache/
+**__pycache__/
+db.sqlite3
+taxi_service_db_data.json
+.flake8
