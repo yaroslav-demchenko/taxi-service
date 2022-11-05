@@ -12,6 +12,16 @@ Test account:
 
 * password: ZqggNJB896dgcaR
 
+## Features
+
+* Authentication functionality for Driver/User
+* Managing cars and drivers directly from website
+* Changed admin page for comfortable managing
+
+## Demo
+
+![Website Interface](demo.png)
+
 ## Installation
 
 Python3 must be already installed
@@ -25,12 +35,3 @@ source venv/bin/activate
 pip install -r requirements.txt
 python manage.py runserver # starts Django server
 ```
-## Features
-
-* Authentication functionality for Driver/User
-* Managing cars and drivers directly from website
-* Changed admin page for comfortable managing
-
-## Demo
-
-![Website Interface](demo.png)
